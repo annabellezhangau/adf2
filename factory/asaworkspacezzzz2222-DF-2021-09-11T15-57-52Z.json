@@ -1,0 +1,9 @@
+{
+	"name": "asaworkspacezzzz2222-DF-2021-09-11T15-57-52Z",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f10a4ec0-9883-409b-a4b5-569f9404f31b",
+		"tenantId": "96d8485b-e367-4eaf-9c2e-7d32d7c4d311"
+	}
+}
